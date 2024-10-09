@@ -18,7 +18,7 @@ Plans
 if i get around to it, and i will.
 i'll post, online, all of the BeOS packages i can find in my downalods directories and other areas on multiple backups on multiple installs.
 
-But i will go back, as i;ve found an old BeOS backup which my contain the orig source, but TBH the source here ? Is orig, apart from the BeOS additions.
+But i will go back, as i;ve found an old BeOS backup which may contain the orig source, but TBH the source here ? Is orig, apart from the BeOS additions.
 
 
 Disclaimer
